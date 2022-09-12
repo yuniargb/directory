@@ -1,0 +1,14 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+.modal-fullscreen {
+    width: 90% !important;
+    height: 100% !important;
+    max-width: none !important;
+    margin: auto !important;
+}
